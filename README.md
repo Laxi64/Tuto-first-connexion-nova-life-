@@ -31,5 +31,8 @@ panel3.text = "Bon, quand tu vas finir ce tuto , la première chose qui risque d
 **Panel 7:**
 
 "-Allez au pole travail. Pour cela sors ton téléphone et regarde sur ton GPS pour trouver \"pole travail\". Arrivée sur place tu pourra choisir entre 3 métiers qui consisteront à suivre des points sur la carte en bas à gauche !";
-panel8.text = "Et voila tu est maintenant fin près a te lançer dans l'aventure. Si tu a des questions n'hésite pas a demander aux gens dans la rue ou sur le discord. Bon jeu a toi !"
+
+**Panel 8**
+
+ "Et voila tu est maintenant fin près a te lançer dans l'aventure. Si tu a des questions n'hésite pas a demander aux gens dans la rue ou sur le discord. Bon jeu a toi !"
 
